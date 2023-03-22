@@ -46,7 +46,7 @@ public class Program {
 
         //#region Robo3 demo
 
-        Lesson_07.Ex004.Robot3 robot3 = new Lesson_07.Ex004.Robot3("name_3");
+        org.example.Ex004.Robot3 robot3 = new org.example.Ex004.Robot3("name_3");
         System.out.println("-------------");
         System.out.println(robot3);
         robot3.power();
